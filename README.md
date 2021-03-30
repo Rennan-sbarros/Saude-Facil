@@ -20,7 +20,7 @@ Projeto baseado em consultas, visando atender os pacientes com busca por profiss
 
   MySQL
 
-- ##### Metodologias Ágeis:
+- ##### Ferramenta de gestão do projeto:
 
   Trello
 
